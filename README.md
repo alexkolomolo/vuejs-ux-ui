@@ -1,6 +1,5 @@
-# The idea of this test is to give you the chance to show off your design skills and to make a beautiful interface.  Please add icons, colors scheme, pay attention to margins etc etc...
-
 # :pencil:  Vue task
+The idea of this test is to give you the chance to show off your design skills and to make a beautiful interface.  Please add icons, colors scheme, pay attention to margins etc etc..
 You have to create SPA application in Vue using:
 - [Vuetify](https://vuetifyjs.com/en/)
 -  [Mock Service Worker](https://mswjs.io/)
